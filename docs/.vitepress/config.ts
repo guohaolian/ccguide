@@ -6,7 +6,7 @@ export default withMermaid(
     title: 'Claude Code 完全指南 V2',
     description: '全网最详细的 Claude Code 51万行源码解读',
     lang: 'zh-CN',
-    base: '/claude-code-complete-guide_v2/',
+    // base: '/claude-code-complete-guide_v2/',
     lastUpdated: true,
 
     markdown: {
