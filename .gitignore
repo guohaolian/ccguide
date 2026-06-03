@@ -1,0 +1,11 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.DS_Store
+*.log
+docs/public/*.pdf
+
+# ReCode local database
+.recode
+node_modules/
+dist/
