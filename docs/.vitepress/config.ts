@@ -20,6 +20,7 @@ export default withMermaid(
     head: [
       ['meta', { name: 'author', content: 'bcefghj' }],
       ['meta', { name: 'keywords', content: 'Claude Code, 源码解读, TypeScript, AI Agent, Anthropic' }],
+      ['link', { rel: 'icon', href: '/claude.png' }]
     ],
 
     themeConfig: {
