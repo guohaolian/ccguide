@@ -44,14 +44,14 @@ export default withMermaid(
           ]
         },
         // { text: '下载PDF', link: '/download' },
-        {
-          text: '相关项目',
-          items: [
-            { text: 'V1 版本', link: 'https://github.com/bcefghj/claude-code-complete-guide' },
-            { text: '源码仓库', link: 'https://github.com/bcefghj/Claude-Code-Source' },
-            { text: '解读收集', link: 'https://github.com/bcefghj/Claude-Code-Source-Analysis' },
-          ]
-        }
+        // {
+        //   text: '相关项目',
+        //   items: [
+        //     { text: 'V1 版本', link: 'https://github.com/bcefghj/claude-code-complete-guide' },
+        //     { text: '源码仓库', link: 'https://github.com/bcefghj/Claude-Code-Source' },
+        //     { text: '解读收集', link: 'https://github.com/bcefghj/Claude-Code-Source-Analysis' },
+        //   ]
+        // }
       ],
 
       sidebar: {
@@ -383,11 +383,11 @@ export default withMermaid(
       },
 
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/bcefghj/claude-code-complete-guide_v2' }
+        { icon: 'github', link: 'https://github.com/guohaolian/ccguide' }
       ],
 
       editLink: {
-        pattern: 'https://github.com/bcefghj/claude-code-complete-guide_v2/edit/main/docs/:path',
+        pattern: 'https://github.com/guohaolian/ccguide/edit/main/docs/:path',
         text: '在 GitHub 上编辑此页'
       },
 

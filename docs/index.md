@@ -5,6 +5,9 @@ hero:
   name: "Claude Code 完全指南"
   text: "V2 — 全网最详细的源码解读"
   tagline: 20篇 200+ 节 | 51万行 TypeScript 源码深度解析 | 零基础友好
+  image:
+    src: /claude.svg
+    alt: abc
   actions:
     - theme: brand
       text: 开始阅读
@@ -17,7 +20,7 @@ hero:
       link: /claude-code-complete-guide-v2.pdf
     - theme: alt
       text: GitHub
-      link: https://github.com/bcefghj/claude-code-complete-guide_v2
+      link: https://github.com/guohaolian/ccguide
 
 features:
   - icon: "\U0001F4DA"
@@ -40,7 +43,7 @@ features:
     details: Prompt缓存策略、三层压缩机制、成本计算公式，教你省80%的API费用
 ---
 
-## 为什么需要 V2？
+<!-- ## 为什么需要 V2？
 
 2026年3月31日，Claude Code v2.1.88 的 **51.2 万行 TypeScript 源码** 意外泄露。这不是一个简单的 CLI 工具——这是一个以 LLM 为内核的操作系统。V2 基于这份完整源码，结合全网优质解读，打造最全面的学习指南。
 
@@ -59,4 +62,4 @@ features:
 
 - [Claude Code 源码](https://github.com/bcefghj/Claude-Code-Source) — v2.1.88 完整 TypeScript 源码
 - [源码解读资料收集](https://github.com/bcefghj/Claude-Code-Source-Analysis) — 全网优质解读文章汇总
-- [V1 版本](https://github.com/bcefghj/claude-code-complete-guide) — 第一版图解指南
+- [V1 版本](https://github.com/bcefghj/claude-code-complete-guide) — 第一版图解指南 -->
